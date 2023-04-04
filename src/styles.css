@@ -1,0 +1,62 @@
+body {
+  font-family: sans-serif;
+  background-color: #a5d7e8;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+button {
+  padding: 7px 10px;
+  margin-left: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  color: white;
+  background-color: #aaa;
+  cursor: pointer;
+}
+
+.input-area {
+  width: 400px;
+  padding: 10px;
+  margin: 10px auto;
+  text-align: center;
+  background-color: #0b2447;
+  border-radius: 5px;
+}
+
+.incomplete-area {
+  width: 400px;
+  padding: 5px 10px;
+  margin: 10px auto;
+  color: white;
+  background-color: #576cbc;
+  border-radius: 5px;
+}
+
+.complete-area {
+  width: 400px;
+  padding: 5px 10px;
+  margin: 10px auto;
+  color: white;
+  background-color: #19376d;
+  border-radius: 5px;
+}
+
+.title {
+  margin-top: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.ToDo-task {
+  margin-bottom: 10px;
+}
